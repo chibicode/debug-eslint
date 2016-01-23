@@ -1,6 +1,5 @@
 {
   "private": true,
-  "name": "debug-eslint",
   "devDependencies": {
     "babel-eslint": "^4.1.6",
     "eslint": "^1.10.3",
